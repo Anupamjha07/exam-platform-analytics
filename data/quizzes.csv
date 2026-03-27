@@ -1,0 +1,11 @@
+quiz_id,quiz_title,subject,difficulty,price,total_marks,duration_minutes
+1,Python Basics Test,DBMS,Easy,49,100,60
+2,SQL Fundamentals Quiz,Aptitude,Medium,49,100,30
+3,DBMS Mock Test,OS,Medium,49,100,30
+4,Operating System Quiz,SQL,Easy,299,100,60
+5,Computer Networks Quiz,Python,Easy,49,100,90
+6,DSA Practice Test,CN,Hard,299,100,45
+7,Aptitude Round 1,Aptitude,Hard,199,100,90
+8,Reasoning Assessment,OS,Medium,299,100,90
+9,Java Basics Quiz,DBMS,Hard,299,100,30
+10,Web Development Test,CN,Hard,49,100,45
